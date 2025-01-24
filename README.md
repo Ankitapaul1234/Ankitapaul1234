@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Ankitapaul1234
+- 👋 Hi, I’m Ankita Paul
 - 👀 I’m interested in ...web development and problem solving
-- 🌱 I’m currently learning ...frontend(HTML,CSS,Java Script)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning DSA and Development 
+- 📫 How to reach me:ankitapaul273@gmail.com
 
 <!---
 Ankitapaul1234/Ankitapaul1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
