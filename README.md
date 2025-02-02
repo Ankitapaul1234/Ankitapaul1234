@@ -2,7 +2,7 @@
 
  <img align="right" alt="coding" width="180" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
  
-- 👋 Hi, I’m Ankita Paul <br>- - 👀 I’m interested in ...web development and problem solving
+- 👋 Hi, I’m Ankita Paul <br>- 👀 I’m interested in ...web development and problem solving
  <br>- 🌱 I’m currently learning  DSA and Development<br>- 📍 kolkata,West Bengal<br>- 📫 How to reach me: ankitapaul273@gmail.com<br>  <br>
 
 
